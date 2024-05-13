@@ -1,16 +1,9 @@
 # Case-Study-Product-Analytics
 
-Case_Study_Product_Analytics_Sitian Gao.pdf
-This is the final presentation slides.
+* Case_Study_Product_Analytics_Sitian Gao.pdf: This is the final presentation slides.
 
-File: Take Home Project Report_N26_Sitian Gao.pdf
+* Take Home Project Report_N26_Sitian Gao.pdf: This is a working running doc to help me keep my thoughts together.
 
-This is a working running doc to help me keep my thoughts together.
+* N26_Sitian_Gao_Python: This is a python file processing data, and creating visualizations.
 
-N26_Sitian_Gao_Python
-
-This is a python file processing data, and creating visualizations.
-
-Python data output & charts.xlsx
-
-This is an additional excel file I used for playing with data output and some charts are created in this file.
+* Python data output & charts.xlsx: This is an additional excel file I used for playing with data output and some charts are created in this file.

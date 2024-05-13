@@ -1,4 +1,4 @@
-# Case-Study-Product-Analytics
+# Case Study Product Analytics
 
 * Case_Study_Product_Analytics_Sitian Gao.pdf: This is the final presentation slides.
 
